@@ -1,0 +1,20 @@
+﻿<Window x:Class="Vision_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <!-- 카메라 영상 표시 -->
+        <Image x:Name="CameraImage" Grid.Row="0" />
+
+        <!-- 버튼 배치 -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Start Recording" Command="{Binding StartCommand}" Margin="10" />
+            <Button Content="Stop Recording" Command="{Binding StopCommand}" Margin="10" />
+        </StackPanel>
+    </Grid>
+</Window>
