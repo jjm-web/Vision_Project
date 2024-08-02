@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/1h3GrahTLg=",
+  "dgSpecHash": "NkXNkNoBWXI=",
   "success": true,
   "projectFilePath": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\Vision_Project.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,7 @@
     "C:\\Users\\hsw77\\.nuget\\packages\\opencvsharp4.runtime.win\\4.10.0.20240616\\opencvsharp4.runtime.win.4.10.0.20240616.nupkg.sha512",
     "C:\\Users\\hsw77\\.nuget\\packages\\opencvsharp4.windows\\4.10.0.20240616\\opencvsharp4.windows.4.10.0.20240616.nupkg.sha512",
     "C:\\Users\\hsw77\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
-    "C:\\Users\\hsw77\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\hsw77\\.nuget\\packages\\system.drawing.common\\8.0.7\\system.drawing.common.8.0.7.nupkg.sha512",
     "C:\\Users\\hsw77\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\hsw77\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
     "C:\\Users\\hsw77\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",

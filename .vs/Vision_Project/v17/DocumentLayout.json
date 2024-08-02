@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\models\\cameramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\models\\cameramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\viewmodels\\mainviwemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\viewmodels\\mainviwemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\vision_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -13,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\bitmapsourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\bitmapsourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\viewmodels\\mainviwemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\viewmodels\\mainviwemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\models\\cameramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\models\\cameramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\obj\\x86\\Debug\\net8.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Vision_Project.csproj",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\Vision_Project.csproj",
               "RelativeDocumentMoniker": "Vision_Project\\Vision_Project.csproj",
@@ -54,11 +54,12 @@
               "RelativeToolTip": "Vision_Project\\Vision_Project.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-01T00:10:36.065Z"
+              "WhenOpened": "2024-08-01T00:10:36.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BitmapSourceConverter.cs",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\BitmapSourceConverter.cs",
               "RelativeDocumentMoniker": "Vision_Project\\BitmapSourceConverter.cs",
@@ -66,35 +67,38 @@
               "RelativeToolTip": "Vision_Project\\BitmapSourceConverter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T00:27:57.352Z"
+              "WhenOpened": "2024-07-30T00:27:57.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Vision_Project\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\MainWindow.xaml.cs",
               "RelativeToolTip": "Vision_Project\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:31:22.616Z"
+              "WhenOpened": "2024-07-29T02:31:22.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CameraModel.cs",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\Models\\CameraModel.cs",
               "RelativeDocumentMoniker": "Vision_Project\\Models\\CameraModel.cs",
               "ToolTip": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\Models\\CameraModel.cs",
               "RelativeToolTip": "Vision_Project\\Models\\CameraModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:58:27.65Z"
+              "WhenOpened": "2024-07-29T02:58:27.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Vision_Project\\MainWindow.xaml",
@@ -106,15 +110,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainViweModel.cs",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\ViewModels\\MainViweModel.cs",
               "RelativeDocumentMoniker": "Vision_Project\\ViewModels\\MainViweModel.cs",
               "ToolTip": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\ViewModels\\MainViweModel.cs",
               "RelativeToolTip": "Vision_Project\\ViewModels\\MainViweModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAkAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:49:11.056Z"
+              "WhenOpened": "2024-07-29T02:49:11.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,7 +129,6 @@
               "RelativeDocumentMoniker": "Vision_Project\\obj\\x86\\Debug\\net8.0-windows\\MainWindow.g.cs",
               "ToolTip": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\obj\\x86\\Debug\\net8.0-windows\\MainWindow.g.cs",
               "RelativeToolTip": "Vision_Project\\obj\\x86\\Debug\\net8.0-windows\\MainWindow.g.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T04:57:25.647Z"
             },
@@ -138,7 +142,8 @@
               "RelativeToolTip": "Vision_Project\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:39:30.672Z"
+              "WhenOpened": "2024-07-29T02:39:30.672Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,4 +1,5 @@
 ﻿using Emgu.CV;
+using System.Drawing;
 using System.Windows;
 
 namespace Vision_Project
@@ -12,6 +13,5 @@ namespace Vision_Project
 
         }
 
-        public Image CameraImage { get; set; }
     }
 }
