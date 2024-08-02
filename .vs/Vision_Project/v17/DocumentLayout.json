@@ -3,32 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\models\\cameramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\models\\cameramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\viewmodels\\mainviwemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\viewmodels\\mainviwemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\models\\cameramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\models\\cameramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\vision_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\vision_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\bitmapsourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\bitmapsourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\obj\\x86\\Debug\\net8.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vision_Project\\obj\\x86\\Debug\\net8.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\vision_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|solutionrelative:vision_project\\vision_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6DD7818-A581-458E-83DA-00289DD86936}|Vision_Project\\Vision_Project.csproj|c:\\users\\hsw77\\source\\repos\\vision_project\\vision_project\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +48,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AQIAALkAAAAAAAAAAAAiwM8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-02T05:07:58.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.NET.Sdk.WindowsDesktop.targets",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAiwG4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-02T05:07:56.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Vision_Project.csproj",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\Vision_Project.csproj",
               "RelativeDocumentMoniker": "Vision_Project\\Vision_Project.csproj",
@@ -54,51 +84,49 @@
               "RelativeToolTip": "Vision_Project\\Vision_Project.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-01T00:10:36.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:10:36.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "BitmapSourceConverter.cs",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\BitmapSourceConverter.cs",
               "RelativeDocumentMoniker": "Vision_Project\\BitmapSourceConverter.cs",
               "ToolTip": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\BitmapSourceConverter.cs",
               "RelativeToolTip": "Vision_Project\\BitmapSourceConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T00:27:57.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T00:27:57.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Vision_Project\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\MainWindow.xaml.cs",
               "RelativeToolTip": "Vision_Project\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T02:31:22.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CameraModel.cs",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\Models\\CameraModel.cs",
               "RelativeDocumentMoniker": "Vision_Project\\Models\\CameraModel.cs",
               "ToolTip": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\Models\\CameraModel.cs",
               "RelativeToolTip": "Vision_Project\\Models\\CameraModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T02:58:27.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Vision_Project\\MainWindow.xaml",
@@ -116,25 +144,26 @@
               "RelativeDocumentMoniker": "Vision_Project\\ViewModels\\MainViweModel.cs",
               "ToolTip": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\ViewModels\\MainViweModel.cs",
               "RelativeToolTip": "Vision_Project\\ViewModels\\MainViweModel.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAwwE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T02:49:11.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainWindow.g.cs",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\obj\\x86\\Debug\\net8.0-windows\\MainWindow.g.cs",
               "RelativeDocumentMoniker": "Vision_Project\\obj\\x86\\Debug\\net8.0-windows\\MainWindow.g.cs",
               "ToolTip": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\obj\\x86\\Debug\\net8.0-windows\\MainWindow.g.cs",
               "RelativeToolTip": "Vision_Project\\obj\\x86\\Debug\\net8.0-windows\\MainWindow.g.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA1wDkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T04:57:25.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\hsw77\\source\\repos\\Vision_Project\\Vision_Project\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Vision_Project\\AssemblyInfo.cs",
@@ -142,8 +171,7 @@
               "RelativeToolTip": "Vision_Project\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:39:30.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T02:39:30.672Z"
             }
           ]
         }

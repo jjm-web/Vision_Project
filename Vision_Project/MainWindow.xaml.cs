@@ -1,7 +1,5 @@
-﻿using Emgu.CV;
-using System.Drawing;
-using System.Windows;
-
+﻿using System.Windows;
+using Vision_Project.ViewModels;
 namespace Vision_Project
 {
     public partial class MainWindow : Window
@@ -10,7 +8,6 @@ namespace Vision_Project
         {
             InitializeComponent();
             DataContext = new MainViewModel();
-
         }
 
     }

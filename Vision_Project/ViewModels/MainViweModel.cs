@@ -1,53 +1,78 @@
-﻿using System.ComponentModel;
-using System.Windows.Input;
-using OpenCvSharp;
-using System.Windows.Media.Imaging;
-using System.Threading.Tasks;
+﻿using System;
+using System.ComponentModel;
 using System.Drawing;
+using System.Windows;
+using System.Windows.Input;
+using System.Windows.Media.Imaging;
 using CommunityToolkit.Mvvm.Input;
-using Vision_Project;
+using Vision_Project.Models;
 
-public class MainViewModel : INotifyPropertyChanged
+namespace Vision_Project.ViewModels
 {
-    public ICommand StartCommand { get; }
-    public ICommand StopCommand { get; }
-
-    private VideoCapture _capture;
-    private bool _isRecording;
-
-    public MainViewModel()
+    public class MainViewModel : INotifyPropertyChanged
     {
-        StartCommand = new RelayCommand(StartRecording);
-        StopCommand = new RelayCommand(StopRecording);
-    }
+        public ICommand ToggleRecordingCommand { get; }
 
-    private void StartRecording()
-    {
-        _capture = new VideoCapture(0); // 내장된 카메라 사용
-        _isRecording = true;
-        Task.Run(() =>
+        private CameraModel _cameraModel;
+        private BitmapSource _cameraImage;
+        private bool _isRecording;
+
+        public string ButtonContent
         {
-            while (_isRecording)
+            get => _isRecording ? "종료" : "시작";
+        }
+
+        public BitmapSource CameraImage
+        {
+            get => _cameraImage;
+            private set
             {
-                using (var frame = _capture.RetrieveMat())
-                {
-                    Bitmap bitmap = OpenCvSharp.Extensions.BitmapConverter.ToBitmap(frame);
-                    var bitmapSource = BitmapSourceConverter.ToBitmapSource(bitmap);
-                    bitmapSource.Freeze(); // UI 스레드에서 사용하기 위해 프리즈
-                    App.Current.Dispatcher.Invoke(() =>
-                    {
-                        ((MainWindow)App.Current.MainWindow).CameraImage.Source = bitmapSource;
-                    });
-                }
+                _cameraImage = value;
+                OnPropertyChanged(nameof(CameraImage));
             }
-        });
-    }
+        }
 
-    private void StopRecording()
-    {
-        _isRecording = false;
-        _capture.Release();
-    }
+        public MainViewModel()
+        {
+            _cameraModel = new CameraModel();
+            _cameraModel.FrameReady += OnFrameReady;
 
-    public event PropertyChangedEventHandler PropertyChanged;
+            ToggleRecordingCommand = new RelayCommand(ToggleRecording);
+        }
+
+        private void ToggleRecording()
+        {
+            try
+            {
+                if (_isRecording)
+                {
+                    _cameraModel.StopRecording();
+                }
+                else
+                {
+                    _cameraModel.StartRecording();
+                }
+                _isRecording = !_isRecording;
+                OnPropertyChanged(nameof(ButtonContent));
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"카메라를 열 수 없습니다. 오류: {ex.Message}", "오류", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private void OnFrameReady(Bitmap bitmap)
+        {
+            var bitmapSource = BitmapSourceConverter.ToBitmapSource(bitmap);
+            bitmapSource.Freeze(); // UI 스레드에서 사용하기 위해 프리즈
+            App.Current.Dispatcher.Invoke(() => CameraImage = bitmapSource);
+        }
+
+        protected void OnPropertyChanged(string propertyName)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+    }
 }

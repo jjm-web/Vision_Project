@@ -1,50 +1,53 @@
-﻿using OpenCvSharp;
-using System;
+﻿using System;
+using System.Drawing;
 using System.Threading.Tasks;
+using OpenCvSharp;
+using OpenCvSharp.Extensions;
 
 namespace Vision_Project.Models
 {
     public class CameraModel : IDisposable
     {
-        private VideoCapture _videoCapture;
+        private VideoCapture _capture;
         private bool _isRecording;
+        public event Action<Bitmap> FrameReady;
 
-        public CameraModel()
+        public void StartRecording()
         {
-            _videoCapture = new VideoCapture(0); // 0 is the default camera
-            if (!_videoCapture.IsOpened())
+            _capture = new VideoCapture(0);
+            if (!_capture.IsOpened())
             {
-                throw new Exception("Could not open video capture device.");
+                throw new Exception("카메라를 열 수 없습니다.");
             }
+            _isRecording = true;
+            Task.Run(() => CaptureFrames());
         }
 
-        public async Task StartRecordingAsync(Action<Mat> frameCallback)
+        private void CaptureFrames()
         {
-            _isRecording = true;
-
-            await Task.Run(() =>
+            while (_isRecording)
             {
-                using var frame = new Mat();
-                while (_isRecording)
+                using (var frame = _capture.RetrieveMat())
                 {
-                    if (_videoCapture.Read(frame) && !frame.Empty())
-                    {
-                        // Call the callback method with the cloned frame
-                        frameCallback?.Invoke(frame.Clone());
-                    }
+                    if (frame.Empty())
+                        continue;
+
+                    var bitmap = BitmapConverter.ToBitmap(frame);
+                    FrameReady?.Invoke(bitmap);
                 }
-            });
+            }
         }
 
         public void StopRecording()
         {
             _isRecording = false;
+            _capture?.Release();
         }
 
         public void Dispose()
         {
-            _videoCapture?.Release();
-            _videoCapture?.Dispose();
+            StopRecording();
+            _capture?.Dispose();
         }
     }
 }
