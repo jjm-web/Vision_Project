@@ -1,0 +1,100 @@
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.exe
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.deps.json
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.runtimeconfig.json
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.pdb
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.csproj.AssemblyReference.cache
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\MainWindow.baml
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\App.g.cs
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project_MarkupCompile.cache
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.g.resources
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.AssemblyInfoInputs.cache
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.AssemblyInfo.cs
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.csproj.CoreCompileInputs.cache
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_P.922325C5.Up2Date
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\refint\Vision_Project.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.pdb
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.genruntimeconfig.cache
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\ref\Vision_Project.dll
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\hsw77\Downloads\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project_MarkupCompile.lref
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.exe
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.deps.json
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.runtimeconfig.json
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.pdb
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.csproj.AssemblyReference.cache
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\App.g.cs
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project_MarkupCompile.cache
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project_MarkupCompile.lref
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\MainWindow.baml
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.g.resources
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.AssemblyInfoInputs.cache
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.AssemblyInfo.cs
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.csproj.CoreCompileInputs.cache
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_P.922325C5.Up2Date
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\refint\Vision_Project.dll
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.pdb
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.genruntimeconfig.cache
+C:\Users\hsw77\Documents\카카오톡 받은 파일\Vision_Project-main\Vision_Project-main\Vision_Project\obj\x86\Debug\net8.0-windows\ref\Vision_Project.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.exe
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.deps.json
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.runtimeconfig.json
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\Vision_Project.pdb
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\Basler.Pylon.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\bin\x86\Debug\net8.0-windows\Basler.Pylon.xml
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.csproj.AssemblyReference.cache
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\App.g.cs
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project_MarkupCompile.cache
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project_MarkupCompile.lref
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\MainWindow.baml
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.g.resources
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.AssemblyInfoInputs.cache
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.AssemblyInfo.cs
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.csproj.CoreCompileInputs.cache
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_P.922325C5.Up2Date
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\refint\Vision_Project.dll
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.pdb
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\Vision_Project.genruntimeconfig.cache
+C:\Users\astra\Downloads\Vision_Project-master\Vision_Project\Vision_Project\obj\x86\Debug\net8.0-windows\ref\Vision_Project.dll
